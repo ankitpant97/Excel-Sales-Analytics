@@ -13,7 +13,8 @@ Sales Domain Metrics
 Overall, this project aims to empower businesses with the necessary tools and insights to monitor, evaluate, and enhance their sales activities. By leveraging sales data analysis, businesses can unlock new opportunities, drive growth, and stay competitive in the dynamic market landscape.
 
 Customer Performance Report
-![cust_sales1](https://github.com/ankitpant97/Excel-Sales-Analytics/assets/152053095/57ce9da4-d551-44d8-af30-2b810832ef03)  ![cust_sales2](https://github.com/ankitpant97/Excel-Sales-Analytics/assets/152053095/4ed25c22-8b82-4c13-a4c6-e845cd060335)
+![imgonline-com-ua-twotoone-ZO3J0JaXgrXNF](https://github.com/ankitpant97/Excel-Sales-Analytics/assets/152053095/1f376fb2-f1b7-4282-888a-2127475e0e1d)
+
 
 Market Performance v/s Target Report
 
